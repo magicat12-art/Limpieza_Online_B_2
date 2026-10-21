@@ -4,8 +4,8 @@
   "limpiezas": 5,
   "cuota": 132,
   "inicio": "2026-08",
-  "actualizado": "2026-10-12",
-  "mostrarNombres": false
+  "mostrarNombres": false,
+  "actualizado": "2026-10-17"
  },
  "deptos": [
   {
@@ -159,7 +159,8 @@
    "orden": 12,
    "pagos": {
     "2026-08": 132,
-    "2026-09": 132
+    "2026-09": 132,
+    "2026-10": 132
    }
   },
   {
@@ -185,7 +186,8 @@
    "orden": 14,
    "pagos": {
     "2026-08": 132,
-    "2026-09": 132
+    "2026-09": 132,
+    "2026-10": 132
    }
   },
   {
@@ -315,6 +317,12 @@
    "fecha": "2026-10-12",
    "monto": 500,
    "nota": ""
+  },
+  {
+   "id": "pmvhd0ov6",
+   "fecha": "2026-10-19",
+   "monto": 500,
+   "nota": "Pago limpieza 19 oct 2026, transferencia."
   }
  ]
 }
