@@ -5,7 +5,7 @@
   "cuota": 132,
   "inicio": "2026-08",
   "mostrarNombres": false,
-  "actualizado": "2026-10-24"
+  "actualizado": "2026-10-26"
  },
  "deptos": [
   {
@@ -324,6 +324,12 @@
    "fecha": "2026-10-19",
    "monto": 500,
    "nota": "Pago limpieza 19 oct 2026, transferencia."
+  },
+  {
+   "id": "pmvpw505h",
+   "fecha": "2026-10-26",
+   "monto": 500,
+   "nota": "Pago por transferencia 26/10/26"
   }
  ]
 }
