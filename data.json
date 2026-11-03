@@ -251,8 +251,7 @@
    "orden": 18,
    "pagos": {
     "2026-08": 132,
-    "2026-09": 132,
-    "2026-10": 132
+    "2026-09": 132
    }
   },
   {
@@ -344,6 +343,12 @@
    "fecha": "2026-10-26",
    "monto": 500,
    "nota": "Pago por transferencia 26/10/26"
+  },
+  {
+   "id": "pmw0tnpav",
+   "fecha": "2026-11-03",
+   "monto": 500,
+   "nota": "Pago por transferencia 03/nov/26."
   }
  ]
 }
