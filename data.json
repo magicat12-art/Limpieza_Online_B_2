@@ -5,7 +5,7 @@
   "cuota": 132,
   "inicio": "2026-08",
   "mostrarNombres": false,
-  "actualizado": "2026-11-23"
+  "actualizado": "2026-11-24"
  },
  "deptos": [
   {
@@ -365,10 +365,10 @@
    "nota": "Pago por Transferencia 16/11/26"
   },
   {
-   "id": "pmwtux8yx",
+   "id": "pmwuxfcfg",
    "fecha": "2026-11-23",
    "monto": 500,
-   "nota": "Transf. 23 nov. Por limpieza"
+   "nota": "Pago Transferencia, 23/nov/26"
   }
  ]
 }
